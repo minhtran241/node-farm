@@ -1,5 +1,5 @@
 # node-farm
-Basic Farm by Node.js
+Basic Farm by Node.js.
 
 # npm
 Node-Farm uses npm as node package management to get crucial dependencies.
